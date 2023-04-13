@@ -1,0 +1,29 @@
+.card {
+    width: 200px;
+    height: 250px;
+    margin: 30px;
+    background-color: grey;
+    color: white;
+    box-shadow: none; /* remove the existing shadow */
+    transition: box-shadow 0.3s; /* add a transition for a smooth effect */
+  }
+  
+  .card:hover {
+    box-shadow: 0px 0px 10px 10px rgb(255, 255, 255); /* apply the shadow on hover */
+  }
+  
+
+.card-img-top {
+    height: 140px;    
+    object-fit: 90%;
+  }
+
+.centered{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card-body{
+    text-align: center;
+}
+
+  
