@@ -10,8 +10,8 @@ const Projects = () => {
           description: 'Festival Event Status',
         },
         {
-          image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681362172/prime_sxhnda.png',
-          url: 'https://pap.ccbp.tech',
+          image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681648560/quiz_hlwwas.png',
+          url: 'https://gb-pavan.github.io/Quiz-using-React/',
           description: 'Amazon Prime Video',
         },
         {
@@ -20,9 +20,9 @@ const Projects = () => {
           description: 'E-cart Authentication',
         },
         {
-          image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681374413/react_ant_design_yozncv.png',
-          url: 'https://gb-pavan.github.io/ant-design-table//   ',
-          description: 'Ant Design table Todos',
+          image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681649069/typing_ep1zsc.png',
+          url: 'https://testtyping207.ccbp.tech/',
+          description: 'Speed Typing Test',
         },
         {
           image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681377255/todo_pdwo2b.png',
