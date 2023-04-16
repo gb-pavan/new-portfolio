@@ -12,7 +12,7 @@ const Projects = () => {
         {
           image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681648560/quiz_hlwwas.png',
           url: 'https://gb-pavan.github.io/Quiz-using-React/',
-          description: 'Amazon Prime Video',
+          description: 'Quiz',
         },
         {
           image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681363019/E-commerce_jj4hhd.png',
