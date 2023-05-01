@@ -1,14 +1,67 @@
 .App {
-  
-    position: fixed;
-    background-image: url('https://res.cloudinary.com/db9tsiti3/image/upload/v1681198734/bggggg-3_p8idgg.png');
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-  }
-  
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://res.cloudinary.com/db9tsiti3/image/upload/v1681198734/bggggg-3_p8idgg.png');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.Navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.Navbar-nav {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Nav-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+@media (max-width: 768px) {
+  .Navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Navbar-brand {
+    margin-bottom: 1rem;
+  }
+
+  .Nav-link {
+    margin: 0.5rem 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .App {
+    background-image: url('https://res.cloudinary.com/db9tsiti3/image/upload/v1681198734/bggggg-3_p8idgg.png');
+    background-size: 100% 100%;
+  }
+}

@@ -1,32 +1,6 @@
-.navbar {
-    background-color: transparent;
-    height: 80px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+
+@media (max-width: 768px) {
+  .nav-link {
+    font-size: 16px !important;
   }
-  
-  .navbar-menu {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .navbar-item {
-    margin: 0 10px;
-  }
-  
-  .navbar-link {
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-    padding-left: 30px;
-  }
-  
-  .navbar-link:hover {
-    color: #db7242;
-  }
-  
+}
