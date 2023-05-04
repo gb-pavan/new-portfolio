@@ -10,7 +10,7 @@ const Projects = () => {
     {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682504876/react_js_il3h1j.png',      url: 'https://testtyping207.ccbp.tech/',      description: 'Speed Typing Test',    },    
     {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682505345/node_kmrfko.png',      url: 'https://gb-pavan.github.io/Todo-Application/',      description: 'Todos using HTML JS',    },    
     {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682504955/python_sxo7mb.avif',      url: 'https://gb-pavan.github.io/Edtech-Portal/',      description: 'Selective DropDown',    },
-    {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682505438/xamagonsqlite_mtycec.webp',      url: 'https://gb-pavan.github.io/Edtech-Portal/',      description: 'Selective DropDown',    }  ];
+    {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1683174069/sql2_iudbbl.png',      url: 'https://gb-pavan.github.io/Edtech-Portal/',      description: 'Selective DropDown',    }  ];
 
   return (
     <div className="skill-container">

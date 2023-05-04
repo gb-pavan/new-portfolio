@@ -5,7 +5,7 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 const Navbar = () => {
   const navStyles = {
-    '--bs-nav-link-color': 'var(--bs-warning)',
+    '--bs-nav-link-color': 'var(--bs-white)',
     '--bs-nav-pills-link-active-color': 'var(--bs-primary)',
     '--bs-nav-pills-link-active-bg': 'var(--bs-light)',
     'maxWidth': '400px',

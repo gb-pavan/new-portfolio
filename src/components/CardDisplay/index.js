@@ -14,8 +14,8 @@ setIsHovered(false);
 };
 
 const buttonStyle = {
-backgroundColor: isHovered ? '#555' : '#ccc',
-color: '#fff',
+backgroundColor: isHovered ? 'rgb(9, 255, 0)' : 'rgb(255, 119, 0)',
+color: 'white',
 padding: '10px 20px',
 border: 'none',
 borderRadius: '5px',

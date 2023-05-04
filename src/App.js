@@ -9,9 +9,10 @@ import Skills from './components/Skills';
 const App = () => (
   <div className="App">
     <Navbar />
+   
     <div className="content">
-      <Switch>
-        <Route exact path="/" component={About} />
+      <Switch>   
+        <Route exact path="/" component={About} />     
         <Route exact path="/skills" component={Skills} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/projects" component={Projects} />

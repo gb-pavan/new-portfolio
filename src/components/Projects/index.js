@@ -4,7 +4,7 @@ import CardDisplay from '../CardDisplay';
 
 const Projects = () => {
   const objectData = [    
-    {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682926303/Screenshot_2023-05-01_130027_kr8zpr.png', technology:"Full Stack Application", url: 'https://gb-pavan.github.io/Bank-Frontend/',      description: 'Banking Application',    },
+    {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1682926303/Screenshot_2023-05-01_130027_kr8zpr.png', technology:"Full Stack Application", url: 'https://gb-pavan.github.io/Banking-Client/',      description: 'Banking Application',    },
     {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681361805/festivals_jgvxrr.png',technology:"React JS",  url: 'https://gb-pavan.github.io/festival-Events-Status-ReactJS/',      description: 'Festival Event Status',    },    
     {      image: 'https://res.cloudinary.com/db9tsiti3/image/upload/v1681648560/quiz_hlwwas.png',technology:"React JS", url: 'https://gb-pavan.github.io/Quiz-using-React/',      description: 'Quiz',    },    
         
