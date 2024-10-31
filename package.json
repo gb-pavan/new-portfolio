@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://gb-pavan.github.io/Portfolio-Updated",
+  "homepage": "https://gb-pavan.github.io/My-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
-    "gh-pages": "^5.0.0",
+    "gh-pages": "^6.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
